@@ -7,6 +7,7 @@
 - Exit code of last command
 - Command execution time
 - Git branch and status
+- Remote ssh connection indicator
 
 ## Requirements
 This theme uses Font Awesome glyphs, so make sure it's installed on your system and your terminal is configured to use them.
